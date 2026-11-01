@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/api/client.ts","./src/types/scan.ts","./src/app.vue","./src/components/findingslist.vue","./src/components/scanreport.vue","./src/components/urlform.vue"],"version":"5.9.3"}
