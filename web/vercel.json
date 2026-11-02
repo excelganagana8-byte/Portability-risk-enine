@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://portability-risk-engine.onrender.com"
+      "destination": "https://portability-risk-enine.onrender.com/api/:path*"
     }
   ]
 }
